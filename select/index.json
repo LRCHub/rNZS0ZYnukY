@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつかの事",
+  "base_artist": "bokula.",
+  "createdAt": "2026-02-14T20:31:59.148925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつかの事",
+      "artist": "bokula.",
+      "has_synced": false,
+      "path": "select/pl_01_いつかの事_bokula..txt"
+    }
+  ]
+}
